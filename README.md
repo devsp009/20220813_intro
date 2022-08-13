@@ -16,3 +16,8 @@ pip install django
 pip install chromedriver-binary
 pip install webdriver-manager
 pip install selenium_firefox
+
+# How to run the program
+open the terminal and run the following command
+
+python test001.py
